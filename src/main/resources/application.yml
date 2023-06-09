@@ -1,0 +1,7 @@
+centraldogma:
+#  profile: local
+  hosts:
+    - 127.0.0.1:36462
+#  access-token: appToken-cffed349-d573-457f-8f74-4727ad9341ce
+#  use-tls: true
+  health-check-interval-millis: 15000
